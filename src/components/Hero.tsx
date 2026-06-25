@@ -57,7 +57,7 @@ export default function Hero() {
             >
               Solicitar orçamento
               <span className="transition-transform group-hover:translate-x-1">
-                ↗
+              
               </span>
             </a>
           </div>

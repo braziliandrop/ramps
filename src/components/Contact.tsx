@@ -46,7 +46,7 @@ export default function Contact() {
                 </span>
               </span>
               <span className="text-2xl text-white transition-transform group-hover:translate-x-1">
-                ↗
+                
               </span>
             </a>
             <a
